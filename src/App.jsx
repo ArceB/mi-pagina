@@ -179,7 +179,7 @@ function App() {
       <Timeline events={eventos} />
       <TwoCards cards={cardsData} />
 
-      <h2 className="text-3xl font-bold text-pink-500 mb-8 text-center">Pasatiempos</h2>
+      
       {/** 
       <p className="text-rose-700">Escuchar música</p>
       <SmallBanners banners={bannersData} />

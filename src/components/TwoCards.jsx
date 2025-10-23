@@ -1,6 +1,6 @@
 export default function TwoCards({ cards }) {
     return (
-        <section id="cripto" className="w-full px-6 py-10">
+        <section id="cripto" className="min-h-screen w-screen flex flex-col justify-center items-center text-center px-6">
             <h2 className="text-3xl font-bold text-pink-500 mb-8 text-center">Criptografía</h2>
             <div className="max-w-6xl mx-auto flex flex-col md:flex-row gap-8">
                 {cards.map(({ title, description, image }, idx) => (

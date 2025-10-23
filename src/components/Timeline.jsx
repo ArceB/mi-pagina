@@ -1,6 +1,6 @@
 export default function Timeline({ events }) {
   return (
-    <section className="max-w-3xl mx-auto p-6">
+    <section className="min-h-screen w-screen flex flex-col justify-center items-center text-center px-6">
       <h2 id="escuela"  className="text-3xl font-bold text-pink-500 mb-8 text-center">Formación Académica</h2>
       <div className="relative border-l-4 border-pink-500 pl-8">
         {events.map((event, idx) => (

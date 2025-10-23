@@ -10,8 +10,7 @@ export default function Header() {
           <a href="#contacto" className="text-pink-800 hover:text-pink-600">Medios de contacto</a>
           <a href="#cv" className="text-pink-800 hover:text-pink-600">CV</a>
           <a
-            href="/Alicia_public.pem"
-            download="Alicia_public.pem"
+            href="https://drive.google.com/file/d/1Lhq8u5y8Mrj4VHyks5jNcT5T7M4GF6l5/view?usp=drive_link"
             className="text-pink-800 hover:text-pink-600"
           >Llave pública</a>
         </div>
