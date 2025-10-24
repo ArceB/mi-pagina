@@ -44,6 +44,12 @@ const images = [
     link: "https://www.instagram.com/arce.bermudez/",
   },
   {
+    primary: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png",
+    secondary: "https://scontent.fmex23-1.fna.fbcdn.net/v/t39.30808-6/365557971_6436060649845866_1696875577930442924_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF5APtg_6QenRaWdi1GnbLZIAKvDrhwLyQgAq8OuHAvJHjN7XaWS2sGgQtyvJhSASysqm6tzgbMBLhU8yYSXG8u&_nc_ohc=BDjd3NLIEo0Q7kNvwHaWQ41&_nc_oc=AdnOOLR7bocqO18qDR_j7CsH2Ig4RJCmfC4-wF3voajgdGi0OCYMPXPVbfcMXcFnngY&_nc_zt=23&_nc_ht=scontent.fmex23-1.fna&_nc_gid=0ZxytExxDcs7mu95EAemAA&oh=00_Affi4Pt2iOdVWcX6xipQFQr9A8qR2viSkH13Lo2LpjTKwQ&oe=68FFA44C",
+    alt: "in",
+    link: "https://www.linkedin.com/in/arcelia-ameyalli-berm%C3%BAdez-moreno-625287337/",
+  },
+  {
     primary: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png",
     secondary: "https://scontent.fmex23-1.fna.fbcdn.net/v/t39.30808-6/365557971_6436060649845866_1696875577930442924_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF5APtg_6QenRaWdi1GnbLZIAKvDrhwLyQgAq8OuHAvJHjN7XaWS2sGgQtyvJhSASysqm6tzgbMBLhU8yYSXG8u&_nc_ohc=BDjd3NLIEo0Q7kNvwHaWQ41&_nc_oc=AdnOOLR7bocqO18qDR_j7CsH2Ig4RJCmfC4-wF3voajgdGi0OCYMPXPVbfcMXcFnngY&_nc_zt=23&_nc_ht=scontent.fmex23-1.fna&_nc_gid=0ZxytExxDcs7mu95EAemAA&oh=00_Affi4Pt2iOdVWcX6xipQFQr9A8qR2viSkH13Lo2LpjTKwQ&oe=68FFA44C",
     alt: "GM",
@@ -166,7 +172,7 @@ const eventos = [
   },
   {
     title: "Ingeniería en Sistemas Computacionale",
-    date: "2023",
+    date: "2021 - 2026",
     description: "ESCOM - Escuela Superior de Cómputo - IPN"
   }
 ];
